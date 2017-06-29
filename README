@@ -1,5 +1,9 @@
-Cancer-Related Analysis of Variants Toolkit (CRAVAT - http://cravat.us) is an easy to use web-based tool for analysis of cancer 
-variants (missense, nonsense, in-frame indel, frameshift indel, splice site, truncating). CRAVAT provides scores and a variety 
-of annotations that assist in identification of important variants. Results are provided in an interactieve, highly graphical 
-environment that assists with prioritization and investigation of study variants.  In addition to the webservice, CRAVAT is 
-also available for local or cloud-based installation as a docker container.
+Cancer-Related Analysis of Variants Toolkit (CRAVAT - http://cravat.us) is an easy to use web-based tool for
+analysis of cancer variants (missense, nonsense, in-frame indel, frameshift indel, splice site, truncating).
+CRAVAT provides scores and a variety of annotations that assist in identification of important variants. 
+Results are provided in an interactieve, highly graphical environment that assists with prioritization and
+investigation of study variants.  In addition to the webservice, CRAVAT is also available for local or cloud-
+based installation as a docker container.
+
+See our introductory video: https://www.youtube.com/watch?v=xovmIy11Bcs
+
